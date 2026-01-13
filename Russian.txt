@@ -1,0 +1,9 @@
+привет|hello
+да|yes
+яблоко|apple
+пока|bye
+голодно|hungry
+я|I
+нет|no
+друг|friend(male)
+повар|chef

@@ -1,0 +1,5 @@
+# Deck: french
+oui|yes
+non|no
+pomme|apple
+livre|book
